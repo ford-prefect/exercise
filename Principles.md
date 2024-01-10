@@ -22,6 +22,14 @@ At the start of a workout, take some time to *situate yourself*. This might incl
 
 * Following this, _erase expectation_. This is hard, but your experiences are not the same every time, and expectations are an indicator that you think your intention will always translate into the same experience, which is flawed.
 
+## Time Under Tension
+
+With some exercises, there is a "relaxation point" of sorts, usually at the end of a cycle. An example of this is a squat, where you could fully extend your knee and stand up at the end.
+
+For such exercises, it might be worth considering _not_ going all the way to the point of relaxation, and instead maintaining some of the tension of the movement through each rep and thus through the entire set.
+
+The purpose here is to increase the actual effort being exerted, and increasing the efficacy of the movement.
+
 ## Breathe
 
 For some reason you need to be reminded to do this.
