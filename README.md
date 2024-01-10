@@ -5,3 +5,5 @@ These are some notes I'm writing up based on my sessions with [Nav](https://www.
 * [Principles](Principles.md)
 * [Pelvic Tilt](Pelvic%20Tilt.md)
 * [Push Up](Push%20Up.md)
+
+There is also a list of [all exercises](All%20Exercises.md).
